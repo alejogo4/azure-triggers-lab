@@ -1,11 +1,9 @@
 ﻿using Microsoft.WindowsAzure.Storage.Table;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace todoalejo.Functions.Entities
 {
-    public class TodoEntity:TableEntity
+    public class TodoEntity : TableEntity
     {
         public DateTime CreatedTime { get; set; }
         public string TaskDescription { get; set; }
