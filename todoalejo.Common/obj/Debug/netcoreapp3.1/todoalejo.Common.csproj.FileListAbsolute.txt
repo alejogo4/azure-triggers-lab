@@ -1,0 +1,10 @@
+F:\ITM\Distribuida\AzureFunction\todoalejo\todoalejo.Common\bin\Debug\netcoreapp3.1\todoalejo.Common.deps.json
+F:\ITM\Distribuida\AzureFunction\todoalejo\todoalejo.Common\bin\Debug\netcoreapp3.1\todoalejo.Common.dll
+F:\ITM\Distribuida\AzureFunction\todoalejo\todoalejo.Common\bin\Debug\netcoreapp3.1\todoalejo.Common.pdb
+F:\ITM\Distribuida\AzureFunction\todoalejo\todoalejo.Common\obj\Debug\netcoreapp3.1\todoalejo.Common.csproj.AssemblyReference.cache
+F:\ITM\Distribuida\AzureFunction\todoalejo\todoalejo.Common\obj\Debug\netcoreapp3.1\todoalejo.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITM\Distribuida\AzureFunction\todoalejo\todoalejo.Common\obj\Debug\netcoreapp3.1\todoalejo.Common.AssemblyInfoInputs.cache
+F:\ITM\Distribuida\AzureFunction\todoalejo\todoalejo.Common\obj\Debug\netcoreapp3.1\todoalejo.Common.AssemblyInfo.cs
+F:\ITM\Distribuida\AzureFunction\todoalejo\todoalejo.Common\obj\Debug\netcoreapp3.1\todoalejo.Common.csproj.CoreCompileInputs.cache
+F:\ITM\Distribuida\AzureFunction\todoalejo\todoalejo.Common\obj\Debug\netcoreapp3.1\todoalejo.Common.dll
+F:\ITM\Distribuida\AzureFunction\todoalejo\todoalejo.Common\obj\Debug\netcoreapp3.1\todoalejo.Common.pdb
